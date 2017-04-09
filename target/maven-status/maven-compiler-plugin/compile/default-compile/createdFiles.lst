@@ -1,0 +1,4 @@
+com\supero\abimael\Application.class
+com\supero\abimael\HomeController.class
+com\supero\abimael\Task.class
+com\supero\abimael\TaskRepository.class
